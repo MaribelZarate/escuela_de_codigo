@@ -20,5 +20,6 @@ Caso: Página de Publicidad y diseño de Stands
 
 * Plantilla para púbico objetivo -- https://miro.com/es/plantillas/publico-objetivo/
 
-![image](https://user-images.githubusercontent.com/101212784/162100609-1167101f-6aa4-4531-a065-1b8b91221306.png)
+![image](https://user-images.githubusercontent.com/101212784/162100698-ca65af72-f75b-454c-8a48-11ff0d4e996b.png)
+
 
