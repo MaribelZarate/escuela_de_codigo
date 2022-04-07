@@ -6,7 +6,7 @@ Caso: Página de Publicidad y diseño de Stands
 * Necesitamos que llenen un formulario para poder contactar a los interesados.
 * Se requiere un contacto inmediato vía whatsapp y/o e-mail.
 * La página debe responsive para todo tipo de clientes. 
-* La preferencia de colores sera el verde y el gris
+* La preferencia de colores sera negro y algun color neon
 * * TOMA DE REQUERIMIENTOS
 * Hacemos el llenado de los requerimientos en el siguiente documento --> PLANTILLA
 
