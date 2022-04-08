@@ -20,3 +20,36 @@ Plantilla para púbico objetivo -- https://miro.com/es/plantillas/publico-objeti
 
 
 ![image](https://user-images.githubusercontent.com/101212784/162014458-055e3ded-116a-40cf-a0da-ccfce21a4ac6.png)
+
+Caso: Página informativa de la Escuela de Código PILARES
+
+Queremos informar de la Escuela de Código a posibles interesados
+Necesitamos que llenen un formulario para poder contactar a los interesados
+Se requiere un contacto inmediato con los candidatos vía whatsapp
+La página debe ser responsive para poder consultar desde el celular
+La preferencia de colores sera el verde y el gris
+FASE 1 TOMA DE REQUERIMIENTOS
+Hacemos el llenado de los requerimientos en el siguiente documento --> PLANTILLA
+
+(pueden usar la plantilla para futuros proyectos)
+
+Elaboramos el formato para determinar nuestra buyer persona --> PLANTILLA
+
+Utilizando una herramienta llamada Miro, crearemos nuestro público objetivo
+
+image
+
+Plantilla para púbico objetivo -- https://miro.com/es/plantillas/publico-objetivo/
+
+FASE 2 DISEÑO
+UI
+Usando la herramienta https://balsamiq.cloud/ realizamos nuestro wireframe --> PLANTILLA
+
+https://balsamiq.cloud/s1uwxqf/pth4vs3/rE39C
+
+© 2022 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+
