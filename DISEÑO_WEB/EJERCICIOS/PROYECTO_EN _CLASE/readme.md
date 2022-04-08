@@ -47,9 +47,6 @@ Usando la herramienta https://balsamiq.cloud/ realizamos nuestro wireframe --> P
 
 https://balsamiq.cloud/s1uwxqf/pth4vs3/rE39C
 
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
+![image](https://user-images.githubusercontent.com/101212784/162453885-ff03cb8a-8b66-443d-afbe-429d1e60fdf4.png)
+
 
