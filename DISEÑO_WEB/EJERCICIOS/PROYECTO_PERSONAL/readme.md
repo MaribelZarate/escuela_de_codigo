@@ -27,6 +27,5 @@ Caso: Página de Publicidad y diseño de Stands
 ![image](https://user-images.githubusercontent.com/101212784/162454364-19543c2d-9c28-464d-b07b-796efb65fd96.png)
 
 ![image](https://user-images.githubusercontent.com/101212784/162477215-f537d798-ed1b-40d9-b8ba-4758a7e57487.png)
-
-![image](https://user-images.githubusercontent.com/101212784/162585640-e06da831-fdbe-4ad0-9f8a-15c0e9b8dd1e.png)
+https://share.balsamiq.com/c/h8zx71CayXLxrVpKMF9boJ.png
 
