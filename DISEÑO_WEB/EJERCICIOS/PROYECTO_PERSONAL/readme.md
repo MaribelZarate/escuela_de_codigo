@@ -30,3 +30,6 @@ Caso: Página de Publicidad y diseño de Stands
 
 https://share.balsamiq.com/c/h8zx71CayXLxrVpKMF9boJ.png
 
+
+![image](https://user-images.githubusercontent.com/101212784/164112434-68508305-715c-4ed5-ad81-24c665da35de.png)
+
